@@ -19,4 +19,4 @@ PROCESS-NAME,obs-ffmpeg-mux.exe
 DOMAIN-KEYWORD,upload
 
 # Unlock some resource
-DOMAIN-KEYWORD,unlock
+DOMAIN-KEYWORD,steamunlocked
