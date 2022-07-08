@@ -1,0 +1,22 @@
+# Telegram
+PROCESS-NAME,Telegram.exe
+
+# Mega
+PROCESS-NAME,MEGAsync.exe
+
+# Free Download Manager
+PROCESS-NAME,fdm.exe
+
+# FFmpeg
+PROCESS-NAME,ffmpeg.exe
+
+# OBS Studio
+PROCESS-NAME,obs.exe
+PROCESS-NAME,obs64.exe
+PROCESS-NAME,obs-ffmpeg-mux.exe
+
+# Upload somethings
+DOMAIN-KEYWORD,upload
+
+# Unlock some resource
+DOMAIN-KEYWORD,unlock
