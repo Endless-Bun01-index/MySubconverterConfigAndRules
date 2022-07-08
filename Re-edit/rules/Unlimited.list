@@ -17,6 +17,24 @@ PROCESS-NAME,obs-ffmpeg-mux.exe
 
 # Upload somethings
 DOMAIN-KEYWORD,upload
+DOMAIN,upload.youtube.com
+DOMAIN,studio.youtube.com
+DOMAIN,a.rtmp.youtube.com
+DOMAIN,b.rtmp.youtube.com
 
 # Unlock some resource
 DOMAIN-KEYWORD,steamunlocked
+DOMAIN-KEYWORD,uploadhaven
+DOMAIN-KEYWORD,uploadhaven.com
+DOMAIN,uploadhaven.com
+
+# Download some resource
+PROCESS-NAME,Open Video Downloader.exe
+PROCESS-NAME,youtube-dl.exe
+PROCESS-NAME,CRTubeGet.exe
+PROCESS-NAME,youtube-dl_cr.exe
+PROCESS-NAME,youtube-dl-gui.exe
+
+# Some RSS Reader
+PROCESS-NAME,Fluent Reader.exe
+PROCESS-NAME,irreader.exe
