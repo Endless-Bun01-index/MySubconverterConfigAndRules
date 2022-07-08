@@ -41,8 +41,9 @@ DOMAIN-KEYWORD,igg-games
 PROCESS-NAME,Open Video Downloader.exe
 PROCESS-NAME,youtube-dl.exe
 PROCESS-NAME,CRTubeGet.exe
+PROCESS-NAME,CRTubeGet_C.exe
 PROCESS-NAME,youtube-dl_cr.exe
-PROCESS-NAME,youtube-dl-gui.exe
+PROCESS-NAME,yt-dlp.exe
 
 # Some RSS Reader
 PROCESS-NAME,Fluent Reader.exe
