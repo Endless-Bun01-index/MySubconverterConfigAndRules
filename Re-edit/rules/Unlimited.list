@@ -23,21 +23,21 @@ PROCESS-NAME,UHDPlayerC2.exe
 # NPS Browser 0.95
 PROCESS-NAME,NPS Browser 0.95.exe
 
-# Youtube Plus
+# Youtube some sever
 DOMAIN-KEYWORD,upload
 DOMAIN,upload.youtube.com
 DOMAIN,studio.youtube.com
 DOMAIN,a.rtmp.youtube.com
 DOMAIN,b.rtmp.youtube.com
 
-# Unlock some resource
+# Download some Unlock game resources
 DOMAIN-KEYWORD,uploadhaven
 DOMAIN-KEYWORD,uploadhaven.com
 DOMAIN,uploadhaven.com
 DOMAIN-KEYWORD,steamunlocked
 DOMAIN-KEYWORD,igg-games
 
-# Download some resource
+# Download some Video(like Youtube)
 PROCESS-NAME,Open Video Downloader.exe
 PROCESS-NAME,youtube-dl.exe
 PROCESS-NAME,CRTubeGet.exe
