@@ -1,0 +1,23 @@
+# Mega
+PROCESS-NAME,MEGAsync.exe
+
+# Free Download Manager
+PROCESS-NAME,fdm.exe
+
+# NPS Browser 0.95
+PROCESS-NAME,NPS Browser 0.95.exe
+
+# Download some Unlock game resources
+DOMAIN-KEYWORD,uploadhaven
+DOMAIN-KEYWORD,uploadhaven.com
+DOMAIN,uploadhaven.com
+DOMAIN-KEYWORD,steamunlocked
+DOMAIN-KEYWORD,igg-games
+
+# Download some Video(like Youtube)
+PROCESS-NAME,Open Video Downloader.exe
+PROCESS-NAME,youtube-dl.exe
+PROCESS-NAME,CRTubeGet.exe
+PROCESS-NAME,CRTubeGet_C.exe
+PROCESS-NAME,youtube-dl_cr.exe
+PROCESS-NAME,yt-dlp.exe
