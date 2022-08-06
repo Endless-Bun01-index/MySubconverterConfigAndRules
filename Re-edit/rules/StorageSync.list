@@ -1,0 +1,14 @@
+# VSCode
+;PROCESS-NAME,Code.exe
+
+# Git
+PROCESS-NAME,git.exe
+
+# GoogleDrive
+PROCESS-NAME,GoogleDriveFS.exe
+
+# Github
+DOMAIN-KEYWORD,Github
+
+# MEGA WebSite
+;DOMAIN,mega.io
