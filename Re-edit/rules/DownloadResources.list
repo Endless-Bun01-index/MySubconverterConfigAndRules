@@ -13,8 +13,6 @@ DOMAIN-KEYWORD,uploadhaven.com
 DOMAIN,uploadhaven.com
 DOMAIN-KEYWORD,steamunlocked
 DOMAIN-KEYWORD,igg-games
-PROCESS-NAME,BitComet.exe
-PROCESS-NAME,BitComet_x64.exe
 
 # Download Some Video(like Youtube)
 PROCESS-NAME,Open Video Downloader.exe
