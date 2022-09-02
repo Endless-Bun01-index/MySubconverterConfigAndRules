@@ -11,3 +11,10 @@ DOMAIN-KEYWORD,xmfans
 
 # trails-game
 DOMAIN,trails-game.com
+
+# Fxxking_Auth_Supplicant
+PROCESS-NAME,Auth_Supplicant_C01.exe
+PROCESS-NAME,Auth_Supplicant.exe
+PROCESS-NAME,Auth_Supplicant_RedV1.exe
+PROCESS-NAME,Auth_SupplicantV1.exe
+PROCESS-NAME,Auth_Supplicant_C1.exe
