@@ -18,3 +18,8 @@ PROCESS-NAME,Auth_Supplicant.exe
 PROCESS-NAME,Auth_Supplicant_RedV1.exe
 PROCESS-NAME,Auth_SupplicantV1.exe
 PROCESS-NAME,Auth_Supplicant_C1.exe
+
+# Fxxking_GZCCC
+DOMAIN-KEYWORD,GZCCC
+DOMAIN,www.gzccc.edu.cn
+DOMAIN,cas.gzccc.edu.cn
