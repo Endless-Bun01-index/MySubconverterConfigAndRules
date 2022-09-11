@@ -23,3 +23,7 @@ PROCESS-NAME,Auth_Supplicant_C1.exe
 DOMAIN-KEYWORD,GZCCC
 DOMAIN,www.gzccc.edu.cn
 DOMAIN,cas.gzccc.edu.cn
+
+# Must be direction(gmtv1.xyz)
+DOMAIN-SUFFIX,xyz
+DOMAIN-KEYWORD,gmtv1
