@@ -17,7 +17,3 @@ DOMAIN,upload.youtube.com
 DOMAIN,studio.youtube.com
 DOMAIN,a.rtmp.youtube.com
 DOMAIN,b.rtmp.youtube.com
-
-# ChatGPT
-DOMAIN-KEYWORD,chat
-DOMAIN,chat.openai.com

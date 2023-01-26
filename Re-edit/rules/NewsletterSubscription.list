@@ -4,3 +4,7 @@ PROCESS-NAME,Telegram.exe
 # Some RSS Reader
 PROCESS-NAME,Fluent Reader.exe
 PROCESS-NAME,irreader.exe
+
+# ChatGPT
+DOMAIN-KEYWORD,chat
+DOMAIN,chat.openai.com
