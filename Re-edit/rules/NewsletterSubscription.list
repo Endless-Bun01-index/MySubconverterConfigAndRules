@@ -1,6 +1,3 @@
-# Telegram
-PROCESS-NAME,Telegram.exe
-
 # Some RSS Reader
 PROCESS-NAME,Fluent Reader.exe
 PROCESS-NAME,irreader.exe
