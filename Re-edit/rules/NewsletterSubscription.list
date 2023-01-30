@@ -4,6 +4,12 @@ PROCESS-NAME,Fluent Reader.exe
 # Irreader
 PROCESS-NAME,irreader.exe
 
+# Tg-TW
+DOMAIN-KEYWORD,tgtw
+DOMAIN,tgtw.cc
+DOMAIN-KEYWORD,tgstat
+DOMAIN,tgstat.com
+
 # ChatGPT
 DOMAIN-KEYWORD,chat
 DOMAIN,chat.openai.com
