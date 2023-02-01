@@ -1,5 +1,7 @@
 # Mega
 PROCESS-NAME,MEGAsync.exe
+DOMAIN-KEYWORD,mega
+DOMAIN,mega.nz
 
 # Free Download Manager
 PROCESS-NAME,fdm.exe
