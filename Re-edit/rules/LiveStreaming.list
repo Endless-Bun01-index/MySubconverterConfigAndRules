@@ -21,3 +21,8 @@ DOMAIN,b.rtmp.youtube.com
 # Konami
 DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,konaminet
+
+# About Konami（like Emuline etc.）
+DOMAIN-KEYWORD,erdao
+DOMAIN-KEYWORD,emuline
+DOMAIN-KEYWORD,komani
