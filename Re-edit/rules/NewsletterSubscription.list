@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,tgstat
 DOMAIN,tgstat.com
 
 # ChatGPT
-DOMAIN-KEYWORD,chat
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,openai
 DOMAIN,chat.openai.com
 
