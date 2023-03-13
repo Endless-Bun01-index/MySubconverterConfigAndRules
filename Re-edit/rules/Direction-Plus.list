@@ -29,6 +29,7 @@ DOMAIN,cas.gzccc.edu.cn
 DOMAIN-SUFFIX,xyz
 DOMAIN-KEYWORD,gmtv1
 
-# Channels-Weixin
+# Channels-About-Weixin
 DOMAIN-KEYWORD,channels
 DOMAIN,channels.weixin.qq.com
+DOMAIN-KEYWORD,goodsunlc
