@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,mega
 DOMAIN,mega.nz
 
 # Free Download Manager
-;PROCESS-NAME,fdm.exe
 
 # NPS Browser 0.95
 PROCESS-NAME,NPS Browser 0.95.exe
