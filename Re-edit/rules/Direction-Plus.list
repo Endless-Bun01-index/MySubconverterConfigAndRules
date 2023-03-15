@@ -9,9 +9,6 @@ DOMAIN,vip.lz-cdn.com
 DOMAIN,www.xmfans.me
 DOMAIN-KEYWORD,xmfans
 
-# trails-game
-DOMAIN,trails-game.com
-
 # Fxxking_GZCCC
 PROCESS-NAME,Auth_Supplicant_C01.exe
 PROCESS-NAME,Auth_Supplicant.exe
