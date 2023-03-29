@@ -3,6 +3,7 @@
 
 # Git
 PROCESS-NAME,git.exe
+DOMAIN-KEYWORD,Git
 
 # GoogleDrive
 PROCESS-NAME,GoogleDriveFS.exe
