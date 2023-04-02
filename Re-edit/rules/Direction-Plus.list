@@ -26,7 +26,13 @@ DOMAIN,cas.gzccc.edu.cn
 DOMAIN-SUFFIX,xyz
 DOMAIN-KEYWORD,gmtv1
 
-# Channels-About-Weixin
+# About-Weixin&WeChat
 DOMAIN-KEYWORD,channels
 DOMAIN,channels.weixin.qq.com
 DOMAIN-KEYWORD,goodsunlc
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,WeChatAppEx.exe
+PROCESS-NAME,WeChatOCR.exe
+PROCESS-NAME,WeChatUtility.exe
+PROCESS-NAME,WeChatPlayer.exe
+PROCESS-NAME,WechatAppLauncher.exe
