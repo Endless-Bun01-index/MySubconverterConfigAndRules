@@ -36,3 +36,8 @@ PROCESS-NAME,WeChatOCR.exe
 PROCESS-NAME,WeChatUtility.exe
 PROCESS-NAME,WeChatPlayer.exe
 PROCESS-NAME,WechatAppLauncher.exe
+
+# About-Baidunetdisk
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,baidunetdiskhost.exe
+PROCESS-NAME,yundetectservice.exe
