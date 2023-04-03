@@ -17,4 +17,5 @@ DOMAIN,chat.openai.com
 
 # Wiki OR Wikipedia
 DOMAIN-KEYWORD,Wiki
+DOMAIN-KEYWORD,wiki
 DOMAIN-KEYWORD,wikipedia
