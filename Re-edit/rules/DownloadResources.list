@@ -28,3 +28,7 @@ PROCESS-NAME,you-get.exe
 PROCESS-NAME,ytdl.exe
 PROCESS-NAME,ytdl_cr.exe
 PROCESS-NAME,crck.exe
+
+# Civitai Website
+DOMAIN-KEYWORD,civitai
+DOMAIN,civitai.com
