@@ -12,7 +12,6 @@ PROCESS-NAME,UHDPlayerC1.exe
 PROCESS-NAME,UHDPlayerC2.exe
 
 # Youtube some sever
-DOMAIN-KEYWORD,upload
 DOMAIN,upload.youtube.com
 DOMAIN,studio.youtube.com
 DOMAIN,a.rtmp.youtube.com
