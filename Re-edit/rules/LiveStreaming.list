@@ -25,3 +25,8 @@ DOMAIN-KEYWORD,konaminet
 DOMAIN-KEYWORD,erdao
 DOMAIN-KEYWORD,emuline
 DOMAIN-KEYWORD,komani
+
+# Hoyoverse
+DOMAIN-KEYWORD,hoyoverse
+DOMAIN-KEYWORD,starrails
+PROCESS-NAME,StarRail.exe

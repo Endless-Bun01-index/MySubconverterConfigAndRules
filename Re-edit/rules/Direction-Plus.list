@@ -47,8 +47,3 @@ PROCESS-NAME,HipsMain.exe
 PROCESS-NAME,HRUpdate.exe
 PROCESS-NAME,HipsLog.exe
 PROCESS-NAME,HipsDaemon.exe
-
-# Hoyoverse
-DOMAIN-KEYWORD,hoyoverse
-DOMAIN-KEYWORD,starrails
-PROCESS-NAME,StarRail.exe
