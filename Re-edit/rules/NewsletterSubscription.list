@@ -19,9 +19,3 @@ DOMAIN,chat.openai.com
 DOMAIN-KEYWORD,Wiki
 DOMAIN-KEYWORD,wiki
 DOMAIN-KEYWORD,wikipedia
-
-# Hoyoverse
-DOMAIN-KEYWORD,hoyoverse
-DOMAIN-KEYWORD,starrails
-PROCESS-NAME,StarRail.exe
-PROCESS-NAME,ZFGameBrowser.exe
