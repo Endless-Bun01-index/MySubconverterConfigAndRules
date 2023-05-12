@@ -1,8 +1,11 @@
 # Niconico
 DOMAIN-KEYWORD,niconico
+DOMAIN-KEYWORD,Niconico
 
 # Abema
 DOMAIN-KEYWORD,Abema
+DOMAIN-KEYWORD,abema
+DOMAIN-SUFFIX,abema.jp
 
 # Konami
 DOMAIN-KEYWORD,konami
