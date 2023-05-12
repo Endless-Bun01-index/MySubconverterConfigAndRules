@@ -9,13 +9,3 @@ DOMAIN-KEYWORD,tgtw
 DOMAIN,tgtw.cc
 DOMAIN-KEYWORD,tgstat
 DOMAIN,tgstat.com
-
-# ChatGPT OR OpenAi
-DOMAIN-KEYWORD,openaicom
-DOMAIN-KEYWORD,openai
-DOMAIN,chat.openai.com
-
-# Wiki OR Wikipedia
-DOMAIN-KEYWORD,Wiki
-DOMAIN-KEYWORD,wiki
-DOMAIN-KEYWORD,wikipedia
