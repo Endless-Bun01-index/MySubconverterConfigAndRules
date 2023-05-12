@@ -1,11 +1,19 @@
 # Niconico
-DOMAIN-KEYWORD,niconico
-DOMAIN-KEYWORD,Niconico
+USER-AGENT,Niconico*
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
 
 # Abema
-DOMAIN-KEYWORD,Abema
-DOMAIN-KEYWORD,abema
-DOMAIN-SUFFIX,abema.jp
+USER-AGENT,AbemaTV*
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN,api-abematv.bucketeer.jp
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
 
 # Konami
 DOMAIN-KEYWORD,konami
