@@ -25,4 +25,4 @@ DOMAIN-KEYWORD,emuline
 DOMAIN-KEYWORD,komani
 
 # Mihuyo-StarRail.exe
-# PROCESS-NAME,StarRail.exe
+PROCESS-NAME,StarRail.exe
