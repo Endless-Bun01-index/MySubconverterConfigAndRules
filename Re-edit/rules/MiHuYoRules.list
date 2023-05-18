@@ -1,2 +1,4 @@
 # Mihuyo-StarRail.exe
 PROCESS-NAME,StarRail.exe
+PROCESS-NAME,ZFGameBrowser.exe
+DOMAIN-KEYWORD,hoyoverse
