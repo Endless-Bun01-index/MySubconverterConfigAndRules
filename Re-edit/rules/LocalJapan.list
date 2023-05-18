@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,konaminet
 
+# DMM
+DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,DMM
+
 # About Konami（like Emuline etc.）
 DOMAIN-KEYWORD,erdao
 DOMAIN-KEYWORD,emuline
