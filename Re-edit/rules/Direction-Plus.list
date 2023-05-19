@@ -9,14 +9,14 @@ DOMAIN,vip.lz-cdn.com
 DOMAIN,www.xmfans.me
 DOMAIN-KEYWORD,xmfans
 
-# Fxxking_GZCCC
+# Fxxking_GZCCC_SW
 PROCESS-NAME,Auth_Supplicant_C01.exe
 PROCESS-NAME,Auth_Supplicant.exe
 PROCESS-NAME,Auth_Supplicant_RedV1.exe
 PROCESS-NAME,Auth_SupplicantV1.exe
 PROCESS-NAME,Auth_Supplicant_C1.exe
 
-# Fxxking_GZCCC
+# Fxxking_GZCCC_Links
 DOMAIN-KEYWORD,GZCCC
 DOMAIN,www.gzccc.edu.cn
 DOMAIN,cas.gzccc.edu.cn
@@ -47,3 +47,6 @@ PROCESS-NAME,HipsMain.exe
 PROCESS-NAME,HRUpdate.exe
 PROCESS-NAME,HipsLog.exe
 PROCESS-NAME,HipsDaemon.exe
+
+# Nite07-Nite07的小窝
+DOMAIN-KEYWORD,nite07
