@@ -49,7 +49,7 @@ PROCESS-NAME,HipsLog.exe
 PROCESS-NAME,HipsDaemon.exe
 
 # Nite07-Nite07的小窝
-DOMAIN-KEYWORD,nite07
+# DOMAIN-KEYWORD,nite07
 
 # BitCome-比特彗星
 PROCESS-NAME,BitComet.exe
