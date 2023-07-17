@@ -53,3 +53,7 @@ PROCESS-NAME,HipsDaemon.exe
 
 # BitCome-比特彗星
 PROCESS-NAME,BitComet.exe
+
+# About-QQ
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,QQScreenshot.exe
