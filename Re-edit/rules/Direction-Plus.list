@@ -9,23 +9,16 @@ DOMAIN,vip.lz-cdn.com
 DOMAIN,www.xmfans.me
 DOMAIN-KEYWORD,xmfans
 
-# Fxxking_GZCCC_SW
-PROCESS-NAME,Auth_Supplicant_C01.exe
-PROCESS-NAME,Auth_Supplicant.exe
-PROCESS-NAME,Auth_Supplicant_RedV1.exe
-PROCESS-NAME,Auth_SupplicantV1.exe
-PROCESS-NAME,Auth_Supplicant_C1.exe
-
-# Fxxking_GZCCC_Links
+# About_GZCCC_Links
 DOMAIN-KEYWORD,GZCCC
 DOMAIN,www.gzccc.edu.cn
 DOMAIN,cas.gzccc.edu.cn
 
-# Must be direction(gmtv1.xyz)
+# gmtv1.xyz
 DOMAIN-SUFFIX,xyz
 DOMAIN-KEYWORD,gmtv1
 
-# About-Weixin&WeChat
+# Weixin&WeChat
 DOMAIN-KEYWORD,channels
 DOMAIN,channels.weixin.qq.com
 DOMAIN-KEYWORD,goodsunlc
@@ -36,22 +29,22 @@ PROCESS-NAME,WeChatUtility.exe
 PROCESS-NAME,WeChatPlayer.exe
 PROCESS-NAME,WechatAppLauncher.exe
 
-# About-Baidunetdisk
+# Baidunetdisk
 PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,baidunetdiskhost.exe
 PROCESS-NAME,yundetectservice.exe
 
-# About-HuorongSecuritySoftware
+# HuorongSecuritySoftware
 PROCESS-NAME,HipsTray.exe
 PROCESS-NAME,HipsMain.exe
 PROCESS-NAME,HRUpdate.exe
 PROCESS-NAME,HipsLog.exe
 PROCESS-NAME,HipsDaemon.exe
 
-# Nite07-Nite07的小窝
+# Nite07
 # DOMAIN-KEYWORD,nite07
 
-# BitCome-比特彗星
+# BitCome
 PROCESS-NAME,BitComet.exe
 
 # About-QQ
