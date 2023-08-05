@@ -9,6 +9,9 @@ DOMAIN,vip.lz-cdn.com
 DOMAIN,www.xmfans.me
 DOMAIN-KEYWORD,xmfans
 
+# some manga(漫画) sites
+DOMAIN-KEYWORD,dogemanga
+
 # About_GZCCC_Links
 DOMAIN-KEYWORD,GZCCC
 DOMAIN,www.gzccc.edu.cn
