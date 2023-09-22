@@ -2,6 +2,18 @@
 ;PROCESS-NAME,Code.exe
 
 # Git
+PROCESS-NAME,git-clone.exe
+PROCESS-NAME,git-config.exe
+PROCESS-NAME,git-http-fetch.exe
+PROCESS-NAME,git-http-push.exe
+PROCESS-NAME,git-remote-ext.exe
+PROCESS-NAME,git-remote-fd.exe
+PROCESS-NAME,git-remote-ftp.exe
+PROCESS-NAME,git-remote-ftps.exe
+PROCESS-NAME,git-remote-http.exe
+PROCESS-NAME,git-remote-https.exe
+PROCESS-NAME,git-remote.exe
+PROCESS-NAME,git.exe
 DOMAIN-KEYWORD,Git
 
 # GoogleDrive
