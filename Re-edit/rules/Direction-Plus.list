@@ -53,3 +53,7 @@ PROCESS-NAME,BitComet.exe
 # About-QQ
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,QQScreenshot.exe
+
+# Gitee
+# DOMAIN-KEYWORD,gitee
+DOMAIN,gitee.com
