@@ -25,3 +25,7 @@ DOMAIN,civitai.com
 # Some books library
 DOMAIN-KEYWORD,booksc
 DOMAIN-KEYWORD,b-ok
+
+# wkhtmlto
+PROCESS-NAME,wkhtmltoimage.exe
+PROCESS-NAME,wkhtmltopdf.exe
