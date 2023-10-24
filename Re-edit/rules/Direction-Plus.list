@@ -57,3 +57,7 @@ PROCESS-NAME,QQScreenshot.exe
 # Gitee
 # DOMAIN-KEYWORD,gitee
 DOMAIN,gitee.com
+
+# Hddonline
+# DOMAIN-KEYWORD,hddonline
+DOMAIN,alive.hddonline.eu.org
