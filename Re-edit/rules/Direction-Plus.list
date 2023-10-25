@@ -61,3 +61,7 @@ DOMAIN,gitee.com
 # Hddonline
 DOMAIN-KEYWORD,hddonline
 DOMAIN,alive.hddonline.eu.org
+
+# Time-server
+DOMAIN-KEYWORD,nist
+DOMAIN,time.nist.gov
