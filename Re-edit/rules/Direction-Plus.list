@@ -68,3 +68,5 @@ DOMAIN,time.nist.gov
 
 # Spotify
 PROCESS-NAME,Spotify.exe
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,spotifycdn
