@@ -30,3 +30,8 @@ DOMAIN-KEYWORD,komani
 
 # iwara
 DOMAIN-KEYWORD,iwara
+
+# RockStarGame
+DOMAIN-KEYWORD,rockstargames
+DOMAIN,store.rockstargames.com
+DOMAIN,media-rockstargames-com.akamaized.net
