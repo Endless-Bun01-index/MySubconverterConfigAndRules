@@ -30,3 +30,13 @@ DOMAIN-KEYWORD,komani
 
 # iwara
 DOMAIN-KEYWORD,iwara
+
+# Spotify
+PROCESS-NAME,Spotify.exe
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,spotifycdn
+
+# Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com

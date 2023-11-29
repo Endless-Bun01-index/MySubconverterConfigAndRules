@@ -65,13 +65,3 @@ DOMAIN,alive.hddonline.eu.org
 # Time-server
 DOMAIN-KEYWORD,nist
 DOMAIN,time.nist.gov
-
-# Spotify
-PROCESS-NAME,Spotify.exe
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,spotifycdn
-
-# Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
