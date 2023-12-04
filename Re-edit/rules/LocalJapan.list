@@ -30,22 +30,3 @@ DOMAIN-KEYWORD,DMM
 DOMAIN-KEYWORD,erdao
 DOMAIN-KEYWORD,emuline
 DOMAIN-KEYWORD,komani
-
-# iwara
-DOMAIN-KEYWORD,iwara
-
-# RockStarGame
-DOMAIN-KEYWORD,rockstargames
-DOMAIN,store.rockstargames.com
-DOMAIN,media-rockstargames-com.akamaized.net
-PROCESS-NAME,RockstarService.exe
-PROCESS-NAME,GTA5.exe
-PROCESS-NAME,GTAVLauncher.exe
-PROCESS-NAME,PlayGTAV.exe
-PROCESS-NAME,GTAVLanguageSelect.exe
-PROCESS-NAME,RockstarSteamHelper.exe
-
-# TeamViewer
-PROCESS-NAME,TeamViewer.exe
-PROCESS-NAME,TeamViewer_Desktop.exe
-PROCESS-NAME,TeamViewer_Service.exe
