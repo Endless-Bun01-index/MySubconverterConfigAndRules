@@ -9,4 +9,8 @@ DOMAIN-KEYWORD,rockstargames
 DOMAIN,store.rockstargames.com
 DOMAIN,media-rockstargames-com.akamaized.net
 PROCESS-NAME,RockstarService.exe
+PROCESS-NAME,GTA5.exe
+PROCESS-NAME,GTAVLauncher.exe
+PROCESS-NAME,PlayGTAV.exe
+PROCESS-NAME,GTAVLanguageSelect.exe
 PROCESS-NAME,RockstarSteamHelper.exe
