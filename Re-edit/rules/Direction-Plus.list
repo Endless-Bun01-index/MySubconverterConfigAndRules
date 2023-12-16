@@ -9,7 +9,7 @@ DOMAIN,vip.lz-cdn.com
 DOMAIN,www.xmfans.me
 DOMAIN-KEYWORD,xmfans
 
-# some manga(漫画) sites
+# some manga sites
 DOMAIN-KEYWORD,dogemanga
 
 # About_GZCCC_Links
@@ -21,7 +21,7 @@ DOMAIN,cas.gzccc.edu.cn
 DOMAIN-SUFFIX,xyz
 DOMAIN-KEYWORD,gmtv1
 
-# Weixin&WeChat
+# WeChat
 DOMAIN-KEYWORD,channels
 DOMAIN,channels.weixin.qq.com
 DOMAIN-KEYWORD,goodsunlc
@@ -50,7 +50,7 @@ PROCESS-NAME,HipsDaemon.exe
 # BitCome
 PROCESS-NAME,BitComet.exe
 
-# About-QQ
+# QQ
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,QQScreenshot.exe
 

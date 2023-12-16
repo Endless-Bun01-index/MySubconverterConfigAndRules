@@ -19,8 +19,3 @@ DOMAIN,b.rtmp.youtube.com
 
 # bilibiliTV
 DOMAIN-SUFFIX,bilibili.tv
-
-# Spotify
-PROCESS-NAME,Spotify.exe
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,spotifycdn
