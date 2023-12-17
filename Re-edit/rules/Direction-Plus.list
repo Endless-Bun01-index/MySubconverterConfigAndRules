@@ -1,15 +1,8 @@
 # Some Videos Website
-DOMAIN-KEYWORD,yhmgo
-DOMAIN,www.yhmgo.net
-DOMAIN,www.yhmgo.com
-DOMAIN,www.yhmgo.cc
-DOMAIN,m.yhvod.net
-DOMAIN-KEYWORD,lz-cdn
-DOMAIN,vip.lz-cdn.com
-DOMAIN,www.xmfans.me
-DOMAIN-KEYWORD,xmfans
+DOMAIN-KEYWORD,-online-
+DOMAIN-KEYWORD,-vip-
 
-# some manga sites
+# SUFFIXome manga sites
 DOMAIN-KEYWORD,dogemanga
 
 # About_GZCCC_Links
