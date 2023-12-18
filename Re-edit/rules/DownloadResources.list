@@ -27,3 +27,10 @@ DOMAIN-KEYWORD,b-ok
 # wkhtmlto
 PROCESS-NAME,wkhtmltoimage.exe
 PROCESS-NAME,wkhtmltopdf.exe
+
+# OSU
+DOMAIN-KEYWORD,ppy
+DOMAIN-KEYWORD,osu
+DOMAIN-KEYWORD,bm4
+DOMAIN-SUFFIX,ppy.sh
+USER-AGENT,osu*
