@@ -34,3 +34,6 @@ DOMAIN-KEYWORD,osu
 DOMAIN-KEYWORD,bm4
 DOMAIN-SUFFIX,ppy.sh
 USER-AGENT,osu*
+
+# Huggingface
+DOMAIN-KEYWORD,huggingface
