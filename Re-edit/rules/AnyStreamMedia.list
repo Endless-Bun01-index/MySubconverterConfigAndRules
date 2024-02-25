@@ -4,5 +4,5 @@ PROCESS-NAME,QQLive.exe
 # github-pages.io
 DOMAIN-SUFFIX,github.io
 
-# Some xyz SUFFIX
-DOMAIN-SUFFIX,xyz
+# bilibiliTV
+DOMAIN-SUFFIX,bilibili.tv
