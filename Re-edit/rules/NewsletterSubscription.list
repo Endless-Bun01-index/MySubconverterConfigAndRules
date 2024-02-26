@@ -12,3 +12,7 @@ DOMAIN,tgstat.com
 
 # Maoxiongnet
 DOMAIN-KEYWORD,maoxiongnet
+
+# telegra
+DOMAIN-KEYWORD,telegra
+DOMAIN-SUFFIX,telegra.ph
