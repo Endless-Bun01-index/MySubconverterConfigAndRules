@@ -10,10 +10,9 @@ DOMAIN,tgtw.cc
 DOMAIN-KEYWORD,tgstat
 DOMAIN,tgstat.com
 
-# sayhuahuo
-DOMAIN-KEYWORD,sayhuahuo
+# Maoxiongnet
+DOMAIN-KEYWORD,maoxiongnet
 
-# Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
+# telegra
+DOMAIN-KEYWORD,telegra
+DOMAIN-SUFFIX,telegra.ph
