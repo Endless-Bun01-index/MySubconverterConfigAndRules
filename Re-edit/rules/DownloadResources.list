@@ -41,3 +41,6 @@ DOMAIN-KEYWORD,huggingface
 # Z-Library Official
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,singlelogin.re
+
+# FDM
+PROCESS-NAME,fdm.exe
