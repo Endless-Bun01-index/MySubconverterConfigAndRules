@@ -42,8 +42,5 @@ DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,singlelogin.re
 
-# FDM
-PROCESS-NAME,fdm.exe
-
 # Some xyz SUFFIX
 DOMAIN-SUFFIX,xyz
