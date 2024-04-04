@@ -57,6 +57,3 @@ DOMAIN,alive.hddonline.eu.org
 # Time-server
 DOMAIN-KEYWORD,nist
 DOMAIN,time.nist.gov
-
-# Mihuyo-StarRail-autopatchos
-DOMAIN-KEYWORD,autopatchos
