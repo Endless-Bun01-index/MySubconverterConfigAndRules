@@ -63,3 +63,6 @@ DOMAIN-KEYWORD,topazlabs
 
 # sing-box
 PROCESS-NAME,sing-box.exe
+
+# Xray
+PROCESS-NAME,xray.exe
