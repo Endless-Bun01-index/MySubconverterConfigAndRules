@@ -60,3 +60,9 @@ DOMAIN,time.nist.gov
 
 # topazlabs
 DOMAIN-KEYWORD,topazlabs
+
+# sing-box
+PROCESS-NAME,sing-box.exe
+
+# v2rayN
+PROCESS-NAME,v2rayN.exe
