@@ -66,3 +66,6 @@ PROCESS-NAME,sing-box.exe
 
 # Xray
 PROCESS-NAME,xray.exe
+
+# Hiddify
+PROCESS-NAME,Hiddify.exe
