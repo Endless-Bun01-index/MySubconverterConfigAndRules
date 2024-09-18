@@ -69,3 +69,7 @@ PROCESS-NAME,xray.exe
 
 # Hiddify
 PROCESS-NAME,Hiddify.exe
+
+# Clash Verge
+PROCESS-NAME,verge-mihomo.exe
+PROCESS-NAME,verge-mihomo-alpha.exe
