@@ -58,9 +58,6 @@ DOMAIN,alive.hddonline.eu.org
 DOMAIN-KEYWORD,nist
 DOMAIN,time.nist.gov
 
-# topazlabs
-DOMAIN-KEYWORD,topazlabs
-
 # sing-box
 PROCESS-NAME,sing-box.exe
 
