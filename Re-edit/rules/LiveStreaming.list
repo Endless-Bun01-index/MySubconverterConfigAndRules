@@ -11,3 +11,7 @@ DOMAIN,upload.youtube.com
 DOMAIN,studio.youtube.com
 DOMAIN,a.rtmp.youtube.com
 DOMAIN,b.rtmp.youtube.com
+
+# Chrome Remote Desktop
+PROCESS-NAME,remoting_desktop.exe
+PROCESS-NAME,remoting_host.exe
